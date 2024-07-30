@@ -1,0 +1,8 @@
+{
+  "name": "B.IA",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "2317e111"
+}
